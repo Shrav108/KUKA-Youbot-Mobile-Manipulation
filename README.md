@@ -2,11 +2,20 @@
 
 Simulation of KUKA Youbot Manipulator using custom Robot Control Library
 
+### File Details
+
+1. Robotics.py                  - Custom Robot Control Module
+2. KukaYoubotControl.py         - Youbot Control Functions
+3. Kuka Youbot Simulator.ipynb  - Main Notebook for Simulation
+4. Utils.py                     - Utility Module
+
 ### Simulation Result
+
 ![](https://github.com/Shrav108/KUKA-Youbot-Mobile-Manipulation/blob/main/Pictures/kuka_manipulation.gif)
 
 
 
 ### Controller Design
+
 ![](https://github.com/Shrav108/KUKA-Youbot-Mobile-Manipulation/blob/main/Pictures/Controller.png)
 
