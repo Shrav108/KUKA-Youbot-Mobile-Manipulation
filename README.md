@@ -19,7 +19,7 @@ Simulation of KUKA Youbot Manipulator using custom Robot Control Library
 
 ### Controller Overview
 
-![](https://github.com/Shrav108/KUKA-Youbot-Mobile-Manipulation/blob/main/Pictures/Controller%20Overview.PNG)
+![](https://github.com/Shrav108/KUKA-Youbot-Mobile-Manipulation/blob/main/Pictures/Control%20Overview.PNG)
 
 
 ### Controller Design
